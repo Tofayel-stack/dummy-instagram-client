@@ -2,7 +2,7 @@
 
 This project is a dummy Instagram home page created using React. It allows users to view a listing of posts, add new posts, and interact with each post by commenting, sharing, and saving.
 
-### In side nav only HOME , REELS , CREATE , LOGIN , LOGOUT , PROFILE ,  route will woking . rest of the will be active in next update.
+### In side nav only HOME , REELS , CREATE , LOGIN , LOGOUT , PROFILE ,  routes will woking . rest of the routes will be active in next update.
 
 ## Features
 
@@ -57,7 +57,7 @@ Each post supports the following actions:
 
  
 
-## live site link : https://dummy-instagram-39c91.web.app/
-## server git link : https://github.com/Tofayel-stack/dummy-instagram-server
-## Author linkdIn profile : https://www.linkedin.com/in/tofayel-hossain-472a31216/
+### live site link : https://dummy-instagram-39c91.web.app/
+### server git link : https://github.com/Tofayel-stack/dummy-instagram-server
+### Author linkdIn profile : https://www.linkedin.com/in/tofayel-hossain-472a31216/
 
